@@ -1,4 +1,5 @@
 Ai Image Generator in React.js
+Dated 25/10/2023
 
 # Getting Started with Create React App
 
