@@ -1,4 +1,4 @@
-Ai Image Generator in React.js
+Ai Image Generator in React.js with open API
 Dated 25/10/2023
 
 # Getting Started with Create React App
